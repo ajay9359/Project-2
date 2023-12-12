@@ -64,7 +64,7 @@ Refine formatting options, colors, and other design elements for a professional 
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://github.com/ajay9359/Project-2/assets/153490133/202dbdad-07d0-4cfb-b9b0-5bdf6db2acd0)
+![image](https://github.com/ajay9359/Project-2/assets/153490133/2b9fbb85-4725-4700-adb3-9d513638f41b)
 
 ![image](https://github.com/ajay9359/Project-2/assets/153490133/72eeab6f-47c7-4606-99cc-75a4dc3f7014)
 
