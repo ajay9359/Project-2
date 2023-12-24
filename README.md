@@ -68,6 +68,8 @@ Refine formatting options, colors, and other design elements for a professional 
 
 ![image](https://github.com/ajay9359/Project-2/assets/153490133/72eeab6f-47c7-4606-99cc-75a4dc3f7014)
 
+https://app.powerbi.com/reportEmbed?reportId=7b443d76-f746-4c58-9c99-ddc43dbe79b2&autoAuth=true&ctid=a8e638b3-b458-49d7-bd35-383afc8221f5
+
 # Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
